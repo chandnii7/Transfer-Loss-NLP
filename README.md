@@ -1,6 +1,6 @@
 # Transfer Loss Across Domain
 
-Program to analyze tranfer loss across domains using example of books and electronics.
+Program to analyze tranfer loss across domains using example of books and electronics. The input vectors are created with Chi Squared.
 
 ### Dataset:
 1. Source Domain: Books
@@ -20,14 +20,14 @@ Program to analyze tranfer loss across domains using example of books and electr
    * Training a logistic regression classifier on the Electronics training dataset.
    * Evaluating it on the Electronics test dataset.
 <br />
-   <img src="https://github.com/chandnii7/TransferLossNLP/blob/main/Data/img1.jpg" height="300" width="400"/>
+   <img src="https://github.com/chandnii7/TransferLossNLP/blob/main/Data/img1.jpg" height="300" width="450"/>
 <br />
 
 2. Cross-domain Transfer:
    * Training a logistic regression classifier on the Books training dataset. 
    * Evaluating it on the Electronics test dataset.
 <br />
-   <img src="https://github.com/chandnii7/TransferLossNLP/blob/main/Data/img2.jpg" height="300" width="400"/>
+   <img src="https://github.com/chandnii7/TransferLossNLP/blob/main/Data/img2.jpg" height="300" width="450"/>
 <br />
 
 3. Transfer Loss Across Domains:
