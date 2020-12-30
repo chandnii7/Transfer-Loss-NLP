@@ -31,5 +31,4 @@ Program to analyze tranfer loss across domains using example of books and electr
 <br />
 
 3. Transfer Loss Across Domains:
-   * LOSS = direct_transfer_accuracy - cross_domain_transfer_accuracy 
-          = 0.39
+   * LOSS = direct_transfer_accuracy - cross_domain_transfer_accuracy = 0.39
