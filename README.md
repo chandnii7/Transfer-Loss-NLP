@@ -1,6 +1,6 @@
 # Transfer Loss Across Domain
 
-Program to analyze transfer loss across domains using example of books and electronics. Creating Tf-idf vectors and selecting k best with Chi Squared. Logistic regression model is used for training.
+Program to analyze transfer loss across domains using example of books and electronics. Creating TF-IDF vectors and selecting k best with Chi Squared. Logistic regression model is used for training.
 
 ### Dataset:
 1. Source Domain: Books
